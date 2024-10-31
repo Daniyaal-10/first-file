@@ -1,4 +1,4 @@
 # first-file
 This is my first Git Repository.
 <br>
-Author - Daniyal
+Author - Daniyal (khan)
